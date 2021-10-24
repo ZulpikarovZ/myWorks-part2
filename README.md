@@ -15,7 +15,7 @@ https://zulpikarovz.github.io/myWorks-part2/notes-app/ - блокнот на jav
 ![image](https://user-images.githubusercontent.com/45043894/138615908-2b2b20ce-7212-42bc-821d-13c970924332.png)
 
 ## quiz-app <a name="quiz-app"></a>
-https://zulpikarovz.github.io/myWorks-part2/quiz-app/ - развлекательная викторина проверяющая знанания.
+https://zulpikarovz.github.io/myWorks-part2/quiz-app/ - развлекательная викторина проверяющая знания.
 ![image](https://user-images.githubusercontent.com/45043894/138616017-f9b907df-7dd5-44e3-b11f-5c7e1c4e7b0b.png)
 ![image](https://user-images.githubusercontent.com/45043894/138616067-78eb3729-d39b-4479-a464-d57af3f948e5.png)
 ![image](https://user-images.githubusercontent.com/45043894/138616023-e2c7f8b6-0855-4ea8-a593-bc26541fca4d.png)
