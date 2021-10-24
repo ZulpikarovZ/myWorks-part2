@@ -7,7 +7,7 @@
 
 
 ## birthdayTimer <a name="birthdayTimer"></a>
-https://zulpikarovz.github.io/myWorks-part2/birthdayTimer/ - программа отсчитывает до дня моего рождения в режиме онлайн.
+https://zulpikarovz.github.io/myWorks-part2/birthdayTimer/ - программа отсчитывает время до дня моего рождения в режиме онлайн.
 ![image](https://user-images.githubusercontent.com/45043894/138615750-e04894bb-a2e1-4cea-8259-f9963beb0c55.png)
 
 ## notes-app <a name="notes-app"></a>
