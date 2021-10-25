@@ -1,5 +1,4 @@
 # My works part 2: 
-ывывыв ыввывлывлылвылвывы
 
 - [birthdayTimer](#birthdayTimer)
 - [notes-app](#notes-app)
