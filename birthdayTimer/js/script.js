@@ -3,7 +3,7 @@ const hoursEl = document.getElementById('hours')
 const minsEl = document.getElementById('mins')
 const secondsEl = document.getElementById('seconds')
 
-const myBirthday = '09 12 2022'
+const myBirthday = '09 12 2023'
 
 function counter() {
   const birthdayDate = new Date(myBirthday)
